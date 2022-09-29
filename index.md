@@ -28,7 +28,14 @@
 
 
 
-
+### Git commands that I know
+```
+git status
+git add
+git commit
+git push
+git clone
+```
 
 
 
@@ -58,5 +65,5 @@
 
 ![a dog](https://p1-tt.byteimg.com/origin/pgc-image/ffdd86cb934c4416b7d5bfb32197b5d2.jpg)
 
-theme: dinky
+
 
